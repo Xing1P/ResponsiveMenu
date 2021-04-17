@@ -1,5 +1,5 @@
 # flutter_responsive_menu
-
+![screenshot](https://github.com/Xing1P/ResponsiveMenu/blob/main/thumbnail/image.png)
 A new Flutter application.
 
 ## Getting Started
